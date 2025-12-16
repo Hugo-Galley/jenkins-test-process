@@ -1,2 +1,2 @@
-get_hello():
+def get_hello():
     return "hello"
